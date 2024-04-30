@@ -9,7 +9,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy55emxmai5jbi90dmJveC9saXZlLnR4dA=="]}]}],
 
 "sites":[
-{"key":"csp_panghu","name":"胖虎","type":3,"api":"csp_panghu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json"},
+{"key":"csp_panghu","name":"胖虎","type":3,"api":"csp_panghu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
