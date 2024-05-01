@@ -21,7 +21,86 @@
 { "key": "gdlsE", "name": "香奶儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "kxgav", "name": "白嫖资源(已修复)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "afasu", "name": "小湿妹资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+  # 直播
+    "lives": [
+        { "group": "电影轮播", "channels": [ 
+        { "name": "周星星","urls": [ "http://wabc.ml/huya.php?id=11342412" ] }, 
+        { "name": "经典贺岁片", "urls": [ "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8" ] },
+        { "name": "古天乐影院", "urls": [ "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8" ] },
+        { "name": "成龙作品集", "urls": [ "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8" ] },
+        { "name": "张国荣作品集", "urls": [ "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8" ] },
+        { "name": "周润发影院", "urls": [ "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8" ] },
+        { "name": "云上电影院", "urls": [ "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8" ] },
+        { "name": "刘德华影院", "urls": [ "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8" ] },
+        { "name": "刘亦菲影视展播", "urls": [ "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8" ] },
+        { "name": "TVB剧场", "urls": [ "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8" ] },
+        { "name": "盗墓方法论", "urls": [ "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8" ] },
+        { "name": "试胆大会", "urls": [ "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8" ] },
+        { "name": "军旅剧场", "urls": [ "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8" ] },
+        { "name": "SNH48剧场公演", "urls": [ "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8" ] },
+        { "name": "追剧少女", "urls": [ "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8" ] }
+      ]
+    }
+  ],
+
+
+    "parses": [
+        { "name": "Json轮询", "type": 2, "url": "Sequence" },
+        { "name": "Jsonaiaine", "type": 1, "url": "http://www.aiaine.com/api/?key=zJQvr5baYHz7vpNSy9&url=" },
+        { "name": "8090", "type": 0, "url": "https://www.8090g.cn/?url=" } 
+        ], 
+    "flags": [ 
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili" 
+        ], 
+    "ijk": [ 
+        { "group": "软解码","options": [
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "max-buffer-size", "value": "5242880" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "0" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "0" },
+        { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "0" },
+        { "category": 4, "name": "mediacodec-hevc", "value": "0" }
+        ]
+        },
+        { "group": "硬解码", "options": [ 
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "max-buffer-size", "value": "5242880" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "1" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
+        { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "1" },
+        { "category": 4, "name": "mediacodec-hevc", "value": "1" }
+        ]
+        }
+        ]
 
 ]
 }
