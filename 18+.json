@@ -1,13 +1,20 @@
 {
  "sites": [
-{"key": "chengren", "name":"❤️┃成人1┃❤️", "type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod/","searchable":1, "quickSearch":1},
-{"key": "麻豆","name":"💃91麻豆","type": 1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1, "quickSearch":1,"filterable": 0},
+{"key":"chengren", "name":"❤️┃成人1┃❤️", "type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod/","searchable":1, "quickSearch":1},
+{"key":"91md","name":"💃91麻豆","type": 1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1, "quickSearch":1},
 {"key": "老鸭","name": "❤️┃老鸭┃❤️","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "*博天堂","name":"❤️┃博天堂┃❤️","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+{"key":"*博天堂","name":"❤️┃博天堂┃❤️","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key": "探探","name": "❤️┃探探┃❤️","type": 1,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "乐播","name": "❤️┃乐播┃❤️","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "葡萄","name": "❤️┃葡萄┃❤️","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "花魁","name": "❤️┃花魁┃❤️","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_xpath_franksun","name":"Adults","type":1,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/franksun1211/TVBOX/main/fuli.json"}
- ]
+{"key": "番号资源","name": "❤️┃番号资源┃❤️","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "色南国资源","name": "❤️┃色南国资源┃❤️","type": 1,"api": "http://api.sexnguon.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "环亚资源","name": "❤️┃环亚资源┃❤️","type": 1,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "皇冠资源","name": "❤️┃皇冠资源┃❤️","type": 1,"api": "https://hghhh.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "KK写真资源","name": "❤️┃KK写真资源┃❤️","type": 1,"api": "https://kkzy.me/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "易看资源","name": "❤️┃易看资源┃❤️","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "易看资源","name": "❤️┃易看资源┃❤️","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_xpath_franksun","name":"Adults","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/franksun1211/TVBOX/main/fuli.json"}
+]
 }
