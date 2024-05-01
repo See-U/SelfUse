@@ -8,6 +8,7 @@
 {"key": "探探","name": "❤️┃探探┃❤️","type": 1,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "乐播","name": "❤️┃乐播┃❤️","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "葡萄","name": "❤️┃葡萄┃❤️","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "花魁","name": "❤️┃花魁┃❤️","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0}
-]
+{"key": "花魁","name": "❤️┃花魁┃❤️","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_xpath_franksun","name":"Adults","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/franksun1211/TVBOX/main/fuli.json"}
+ ]
 }
