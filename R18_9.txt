@@ -187,7 +187,7 @@ NATIONAL GEOGRAPHIC,http://bdta.pro/3134767531/5CqmEyGNTt/72199.m3u8
 Cartoon Network ,http://bdta.pro/3134767531/5CqmEyGNTt/71831.m3u8
 Disney Channel,https://mycdn.delivery/disneychannel/tracks-v1a1/mono.m3u8
 Retrô Cartoon,https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?IMDSFULL
- Gospel Cartoon,https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+Gospel Cartoon,https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 DISCOVERY KIDS,http://bdta.pro/3134767531/5CqmEyGNTt/71873.m3u8
 NICKELODEON,https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284-3-main.m3u8
 Nick Jr,http://bdta.pro/3134767531/5CqmEyGNTt/72203.m3u8
