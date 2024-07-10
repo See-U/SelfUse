@@ -1,4 +1,4 @@
-ForeignChannel,#genre#
+ch1,#genre#
 AlbKanale Music TV Ⓢ,https://albportal.net/albkanalemusic.m3u8
 CNA,https://live1.mediadesk.al/cnatvlive.m3u8
 News 24 Ⓢ,https://tv.balkanweb.com/news24/livestream/playlist.m3u8
@@ -48,7 +48,7 @@ TVE RS,http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 City TV Ⓢ,https://tv.city.bg/play/tshls/citytv/index.m3u8
 TVO,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 CTV News,https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-ForeignChannel_0,#genre#
+ch2,#genre#
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 CPAC (EN),https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
@@ -99,7 +99,7 @@ Life TV Estonia,https://lifetv.bitflip.ee/live/stream2.m3u8
 Life TV Europe,https://lifetv.bitflip.ee/live/stream1.m3u8
 TBN Baltia,http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 Taivas TV7,https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
-ForeignChannel_1,#genre#
+ch3,#genre#
 Himlen TV7,https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 MTV Uutiset Live,https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 Nopola News,https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
@@ -150,7 +150,7 @@ Oroszlányi Városi Televízió,https://cloudfront44.lexanetwork.com:1344/relay0
 RÚV,https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 NDTV India,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 ABP News,https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-ForeignChannel_2,#genre#
+ch4,#genre#
 Al-Alam News Network Ⓢ,https://live2.alalam.ir/alalam.m3u8
 Press TV,https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 Al-Hurra Iraq,https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
@@ -201,7 +201,7 @@ Antenna Sud Extra,https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
 Aristanis SuperTv,https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 Aurora Arte,https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 Azzurra Tv Vco,https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
-ForeignChannel_3,#genre#
+ch5,#genre#
 BOM Channel,https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 ByoBlu,https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 Cafe Tv 24,https://srvx1.selftv.video/cafe/live/playlist.m3u8
@@ -252,7 +252,7 @@ La tr3 Marsala,https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u
 LaC News 24,https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 LaC Tv Calabria,https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 Lazio Tv,https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-ForeignChannel_4,#genre#
+ch6,#genre#
 Le Cronache Lucane Tv,http://stucazz.com:8888/hls/cronache.m3u8
 Lira Tv,https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 Lombardia Tv,https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
@@ -303,7 +303,7 @@ RTL 102.5 + Plus,https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S127721
 Rtp Tv,http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 Rttr,https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 Rtv 38 Toscana,https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
-ForeignChannel_5,#genre#
+ch7,#genre#
 SL 48 Tv,http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 Sardegna 1,https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 Set Tv Cilento,https://stream1.aswifi.it/settv/live/index.m3u8
@@ -354,7 +354,7 @@ Tele Tutto,https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playli
 Tele Tutto 2,https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
 Tele Tutto 24,https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
 Tele8 Tv,https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
-ForeignChannel_6,#genre#
+ch8,#genre#
 TeleAmbiente,https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 Telecittà Padova,https://tango.wifi4all.it/telecitta/telecitta.m3u8
 Telecity Lombardia,https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
@@ -405,7 +405,7 @@ TBS Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 TV Tokyo Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 Fuji TV (フジテレビ) Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 Tokyo MX1 Ⓢ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-ForeignChannel_7,#genre#
+ch9,#genre#
 HBC Hokkaido News 24,https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 HTB Hokkaido News 24,https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 Niigata News NST,https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
@@ -456,7 +456,7 @@ Omroep Flevoland Ⓢ,https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/t
 KCTV,https://tv.nknews.org/tvdash/stream.mpd
 Телевизија Здравкин,http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 Орбис,http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
-ForeignChannel_8,#genre#
+ch10,#genre#
 M»Net,http://ares.mnet.mk/hls/mnet.m3u8
 Канал 8,http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 ТВ СВЕТ,http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
@@ -507,7 +507,7 @@ CGTN Pусский,https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 Арктика 24 Ⓥ,https://vk.com/video-213370539_456239018
 Архыз 24,https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 Астрахан 24,https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-ForeignChannel_9,#genre#
+ch11,#genre#
 Башкортостан 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 Белгород 24,http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 Ветта 24,http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
@@ -558,7 +558,7 @@ La 1,https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 clan,https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 Aragón TV,https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 EITB1,https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-ForeignChannel_10,#genre#
+ch12,#genre#
 EITB2,https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 3/24,https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
 Bon Dia,https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8
@@ -609,7 +609,7 @@ BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio
 BBC Asian Network,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 STB,http://cdnua03.hls.tv/133/hls/37a7d70ef2fcf08bcd712e4397c7d5c9/4592/stream.m3u8
 24 канал,http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-ForeignChannel_11,#genre#
+ch13,#genre#
 1 Odessa Ⓢ,http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
 7 Kanal,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 BamBarBia TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
