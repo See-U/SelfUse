@@ -7,11 +7,24 @@
 
 # 直播
 "lives":[
-       {
-     "group": "电影轮播", "channels": [ 
-        { "name": "MD","urls": [ "https://raw.gitmirror.com/See-U/SelfUse/main/PStar/MD.txt" ] }, 
-        { "name": "Beauty", "urls": [ "https://raw.gitmirror.com/See-U/SelfUse/main/PStar/Beauty.txt" ] }] 
-        }
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://tv.youdu.fan:666/live/",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+		 {
+            "name": "MD",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/See-U/SelfUse/main/PStar/MD.txt",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+		{
+            "name": "Beauty",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/See-U/SelfUse/main/PStar/Beauty.txt",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }  
 ],
 
 "sites":[
