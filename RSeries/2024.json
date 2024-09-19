@@ -8,11 +8,7 @@
 # 直播
 "lives":[
         {
-            "name": "live",
-            "type": 0,
-            "url": "https://tv.youdu.fan:666/live/",
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-        },
+
 		 {
             "name": "MD",
             "type": 0,
