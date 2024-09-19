@@ -6,7 +6,19 @@
 "spider":"http://www.yzlfj.cn/tvbox/XBiubiuLA4.jar",
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy55emxmai5jbi90dmJveC9saXZlLnR4dA=="]}]}],
+"lives":[
+        {
+            "name": "youdu",
+            "type": 0,
+            "url": "https://tv.youdu.fan:666/live/",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        }
+		{
+            "name": "live",
+            "type": 0,
+            "url": "https://raw.gitmirror.com/See-U/SelfUse/main/PStar/Beauty.txt"
+        }
+],
 
 "sites":[
 {"key":"csp_panghu","name":"胖虎","type":3,"api":"csp_panghu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
