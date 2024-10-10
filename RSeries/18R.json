@@ -7,7 +7,18 @@
             "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
-        }, {
+        },
+      {
+    "key": "csp_biubiu_18av",
+    "name": "18av",
+    "type": 3,
+    "api": "csp_XBiubiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://gcore.jsdelivr.net/gh/See-U/SelfUse@main/H/18av.json"
+},
+{
             "key": "91md",
             "name": "💃md",
             "type": 0,
