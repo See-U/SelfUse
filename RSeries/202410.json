@@ -1,5 +1,5 @@
 {
- "spider":"http://www.yzlfj.cn/tvbox/XBiubiuLA4.jar",
+  "spider":"https://cdn.jsdelivr.net/gh/See-U/SelfUse/jar/tvbox.txt",
  "lives": [
     {
               "name": "live",
