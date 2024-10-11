@@ -10,7 +10,7 @@
         }, {
             "key": "banban",
             "name": "banban",
-            "type": 3,
+            "type": 1,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
@@ -143,7 +143,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/franksun1211/TVBOX/main/fuli.json"
+            "ext": "https://gcore.jsdelivr.net/gh/franksun1211/TVBOX/fuli.json"
         }, {
             "key": "gdlsE",
             "name": "gdlsE",
