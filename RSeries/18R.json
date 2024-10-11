@@ -8,15 +8,6 @@
             "searchable": 1,
             "quickSearch": 1
         }, {
-            "key": "banban",
-            "name": "banban",
-            "type": 1,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gcore.jsdelivr.net/gh/See-U/SelfUse@main/H/banban.json"
-        }, {
             "key": "91md",
             "name": "💃md",
             "type": 0,
